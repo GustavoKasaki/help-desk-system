@@ -42,7 +42,7 @@ const Login = () => {
             />
             <FaLock className="icon" />
           </div>
-          <Button type="submit" titulo="Entrar" icon={FaSignInAlt} />
+          <Button type="submit" titulo="Login" icon={FaSignInAlt} />
         </form>
       </LoginContainer>
     </LoginPage>
