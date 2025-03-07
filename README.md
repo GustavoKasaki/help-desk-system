@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Help Desk System using Next.js
 
-## Getting Started
+This is a React-based application designed to streamline customer support by providing an efficient ticketing system. The project was developed to enhance my front-end development skills and is part of my portfolio of responsive and interactive applications.
 
-First, run the development server:
+![image](https://github.com/user-attachments/assets/478960b7-ab3e-4f19-917b-c0baf83bd057)
+![image](https://github.com/user-attachments/assets/ecca0640-5aed-400f-9d39-fd1cc2012e4c)
+![image](https://github.com/user-attachments/assets/3ec20f98-68d1-4c8f-8ca7-1ed7c81cab3a)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Ticket Management**: Easily create, track, and manage customer support tickets.
+- **User Authentication**: Secure login system for both customers and support staff.
+- **Modern Design**: A clean and responsive UI built with React.
+- **Dynamic Components**: Interactive menus and user-friendly navigation.
+- **Future Enhancements**: Ready for backend integration and additional features.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Frontend**: React.js with Next.js framework for server-side rendering and routing.
+- **Backend**: Node.js with Express.js for API development (to do).
+- **Database**: Firestore Database for data storage.
+- **Styling**: CSS-in-JS Styled Components for responsive and modern UI design.
 
-## Learn More
+## Installation
+[Link to the live application](https://gmk-help-desk-system.vercel.app/)
 
-To learn more about Next.js, take a look at the following resources:
+To run this project locally, follow these steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+   ```bash
+   git clone https://github.com/GustavoKasaki/help-desk-system.git
+   ```
 
-## Deploy on Vercel
+2. Navigate to the project directory:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   cd help-desk-system
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and navigate to:
+
+   ```
+   http://localhost:3000
+   ```
+
+## Future Improvements
+
+- Backend integration for real-time data.
+- User authentication and profiles.
+- Enhanced accessibility features.
+
+---
+
+Feel free to fork, contribute, or provide feedback!
