@@ -23,6 +23,7 @@ This is a React-based application designed to streamline customer support by pro
 
 ## Installation
 [Link to the live application](https://gmk-help-desk-system.vercel.app/)
+(use login 'tester' and pwd '1234')
 
 To run this project locally, follow these steps:
 
